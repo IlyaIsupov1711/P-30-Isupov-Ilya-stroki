@@ -1,0 +1,4 @@
+﻿  dgdg.cpp
+C:\Users\student\source\repos\dgdg\dgdg\dgdg.cpp(22,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\student\source\repos\dgdg\dgdg\dgdg.cpp(27,18): warning C4018: >: несоответствие типов со знаком и без знака
+  dgdg.vcxproj -> C:\Users\student\source\repos\dgdg\Debug\dgdg.exe
